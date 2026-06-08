@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔍 GitHub Profile Analyzer
+#  GitHub Profile Analyzer 🔍
 
 **Analyze any GitHub profile — scores, stats, top repos, language breakdown — all in one place.**
 
