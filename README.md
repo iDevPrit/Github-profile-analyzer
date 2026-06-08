@@ -68,7 +68,7 @@
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-profile-analyzer.git
+git clone https://github.com/iDevPrit/github-profile-analyzer.git
 cd github-profile-analyzer
 ```
 
@@ -201,8 +201,8 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your_linkedin](https://linkedin.com/in/your_linkedin)
+- GitHub: [Prit](https://github.com/iDevPrit)
+- LinkedIn: [Prit](https://linkedin.com/in/iDevPrit)
 
 ---
 
